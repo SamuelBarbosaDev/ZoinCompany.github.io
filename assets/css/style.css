@@ -140,31 +140,28 @@ main{
 /* FOOTER */
 footer{
     width: 100%;
-    min-height: 1vh;
-    background-color: var(--secodary-color);
+    background-color: var(--primary-color);
 }
 
 .footer{
+    gap: 2rem;
     display: flex;
-    min-height: 100vh;
-    align-items: center;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
+    padding: 5rem 0 5rem 0;
 }
 
 
 .footer > h2{
     opacity: .8;
-    font-size: 8rem;
-    margin-bottom: var(--big-gap);
-    color: var(--primary-color);
+    font-size: 3rem;
 }
 
 .navigation-footer{
-    display: flex;
     gap: var(--gap);
+    display: flex;
     align-items: center;
-    flex-direction: column;
     justify-content: center;
 }
 
@@ -182,17 +179,7 @@ footer{
 
 .contact-svg{
     margin-right: 1rem;
-    width: 5rem;
-    height: 5rem;
+    width: 2rem;
+    height: 2rem;
     fill: currentColor;
-}
-
-.contact-svg > path{
-    color: var(--primary-color);
-}
-
-.footer-contact-text{
-    font-size: 2rem;
-    font-weight: bold;
-    color: var(--primary-color);
 }
