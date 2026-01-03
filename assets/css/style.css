@@ -80,8 +80,12 @@ header{
 }
 
 /* MAIN */
-main{
+body{
     min-height: 100vh;
+    width: 100%;
+    background-color: var(--primary-color);
+}
+main{
     width: 100%;
     background-color: var(--primary-color);
 }
@@ -97,7 +101,8 @@ main{
 .project{
     padding: var(--small-gap);
     overflow: hidden;
-    height: 42.45rem;
+    /* height: 42.45rem; */
+    aspect-ratio: 16 / 9;
     position: relative;
 }
 
@@ -114,8 +119,9 @@ main{
     font-weight: bolder;
 }
 
-.gallery-project-description .year{
+.year, .description{
     opacity: .7;
+    text-align: center;
 }
 
 .project:hover .gallery-project-description{
@@ -182,4 +188,20 @@ footer{
     width: 2rem;
     height: 2rem;
     fill: currentColor;
+}
+
+@media (max-width: 1000px){
+    .header h1{
+        left: 80%;
+    }
+
+    .gallery{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 700px){
+    .gallery{
+        grid-template-columns: 1fr;
+    }
 }
