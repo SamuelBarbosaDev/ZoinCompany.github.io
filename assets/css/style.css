@@ -190,6 +190,57 @@ footer{
     fill: currentColor;
 }
 
+/* LIGHTBOX */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.9);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 1000;
+  padding: 20px;
+}
+
+/* ATIVA O MODAL */
+.lightbox:target {
+  display: flex;
+}
+
+/* IMAGEM EM TELA CHEIA */
+.lightbox img {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+}
+
+/* BOTÃO FECHAR */
+.close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 40px;
+  color: white;
+  text-decoration: none;
+}
+
+/* LINK DO BEHANCE */
+.behance-link {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #1769ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.behance-link:hover {
+  background: #0047cc;
+}
+
 @media (max-width: 1000px){
     .header h1{
         left: 80%;
