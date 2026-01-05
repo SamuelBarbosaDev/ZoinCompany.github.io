@@ -3,7 +3,10 @@ name: Deploy Nuxt to GitHub Pages
 on:
   push:
     branches:
-      - main   # dispara quando houver push na branch principal
+      - main
+
+permissions:
+  contents: write   # 👈 ESSENCIAL para permitir push na gh-pages
 
 jobs:
   build:
@@ -16,13 +19,13 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '25.2.1'
+          node-version: '20' # ⚠️ Node 25 ainda não é LTS (recomendo 20)
 
       - name: Instalar dependências
         run: npm install
 
       - name: Gerar site estático
-        run: npm run generate   # ou `nuxi generate`
+        run: npm run generate
 
       - name: Deploy para GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
