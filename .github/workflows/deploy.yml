@@ -1,0 +1,32 @@
+name: Deploy Nuxt to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main   # dispara quando houver push na branch principal
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '25.2.1'
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Gerar site estático
+        run: npm run generate   # ou `nuxi generate`
+
+      - name: Deploy para GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .output/public
+          publish_branch: gh-pages
