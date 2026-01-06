@@ -9,5 +9,8 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/'
   },
-  css: ['~/assets/css/style.css']
+  css: ['~/assets/css/style.css'],
+  image: {
+    dir: '~/assets/img',
+}
 })
