@@ -12,8 +12,8 @@ const open = ref(false)
 <template>
   <div class="project" @click="open = true">
     <div class="gallery-project-description">
-        <p class="title">project.title</p>
-        <p class="year">project.year</p>
+        <p class="title">{{ project.title }}</p>
+        <p class="year">{{ project.year }}</p>
         <p class="description"></p>
     </div>
     <img :src="project.image[0]" :alt="project.title" />
