@@ -119,7 +119,11 @@
     "id": "img17",
     "title": "Crispy Proteiny",
     "year": "2025",
-    "image": ["assets/img/Crispy.png","assets/img/PÓS.png","assets/img/Video Gamer.png"],
+    "image": [
+      "Crispy.png",
+      "PÓS.png",
+      "Video Gamer.png"
+    ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
   }
 ]
