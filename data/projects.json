@@ -14,105 +14,135 @@
     "id": "img2",
     "title": "Lamborghini Temerario",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8e8fcb214376473.67c846cbde0af.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8e8fcb214376473.67c846cbde0af.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/214376473/Lamborghini-Temerario"
   },
   {
     "id": "img3",
     "title": "AUDI SQ8 2024",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a079e4211252347.671fbda399ad2.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a079e4211252347.671fbda399ad2.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/211252347/AUDI-SQ8-2024"
   },
   {
     "id": "img4",
     "title": "Tabasco Bloody Mary Mix",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/20c920194565867.65fddd995ca04.png"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/20c920194565867.65fddd995ca04.png"
+    ],
     "behance": "https://www.behance.net/gallery/194565867/Tabasco-Bloody-Mary-Mix"
   },
   {
     "id": "img5",
     "title": "Dairy Milk",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/41cd54195518093.660ec84d4894b.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/41cd54195518093.660ec84d4894b.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/195518093/Dairy-Milk"
   },
   {
     "id": "img6",
     "title": "Pepsi",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d27d7a197652605.6633d34868d71.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d27d7a197652605.6633d34868d71.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/197652605/Pepsi"
   },
   {
     "id": "img7",
     "title": "Stella Artois",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f61c9d195437035.660d8606cd5d6.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f61c9d195437035.660d8606cd5d6.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/195437035/Stella-Artois"
   },
   {
     "id": "img8",
     "title": "Ice Cream Strawberry",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/70058f197207949.662c22e3886f2.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/70058f197207949.662c22e3886f2.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/197207949/Ice-Cream-Strawberry"
   },
   {
     "id": "img9",
     "title": "Frappuccino Cream Matcha",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3c6893195253447.660abc5b1f4b5.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3c6893195253447.660abc5b1f4b5.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/195253447/Frappuccino-Cream-Matcha"
   },
   {
     "id": "img10",
     "title": "Choco Caramel Bar",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/93d5c7195858627.661561567a507.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/93d5c7195858627.661561567a507.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/195858627/Choco-Caramel-Bar"
   },
   {
     "id": "img11",
     "title": "KitKat",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/df9f5a195592031.6610075868b0b.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/df9f5a195592031.6610075868b0b.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/195592031/KitKat"
   },
   {
     "id": "img12",
     "title": "Iogurte Itambé",
     "year": "2025",
-    "image": ["https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/63902c195774771.6613fec83e250.jpg"],
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/63902c195774771.6613fec83e250.jpg"
+    ],
     "behance": "https://www.behance.net/gallery/195774771/Iogurte-Itamb"
   },
   {
     "id": "img13",
     "title": "Nativa Spa",
     "year": "2025",
-    "image": ["Orquidea-Spa.png"],
+    "image": [
+      "Orquidea-Spa.png"
+    ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
   },
   {
     "id": "img14",
     "title": "Video Gamer",
     "year": "2025",
-    "image": ["Video Gamer.png"],
+    "image": [
+      "Video Gamer.png"
+    ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
   },
   {
     "id": "img15",
     "title": "Wild Turkey",
     "year": "2025",
-    "image": ["15WildTurkey.jpg"],
+    "image": [
+      "15WildTurkey.jpg"
+    ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
   },
   {
     "id": "img16",
     "title": "Strawberry Proteiny",
     "year": "2025",
-    "image": ["PÓS.png"],
+    "image": [
+      "PÓS.png"
+    ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
   },
   {
@@ -127,4 +157,3 @@
     "behance": "https://www.behance.net/rafaelbarbosaz"
   }
 ]
-
