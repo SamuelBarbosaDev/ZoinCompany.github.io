@@ -153,5 +153,17 @@
       "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d3a71b241653753.695d19dac89cd.png"
     ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
+  },
+  {
+    "id": "img18",
+    "title": "Whisky",
+    "year": "2025",
+    "image": [
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/1400/4a8018243657405.6985e7e491918.png",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/1400/163088243657405.6985e7e492b22.png",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/1400/2cbdf1243657405.6985e7e492624.png",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/1400/929321243657405.6985e7e491e6b.png"
+    ],
+    "behance": "https://www.behance.net/rafaelbarbosaz"
   }
 ]
