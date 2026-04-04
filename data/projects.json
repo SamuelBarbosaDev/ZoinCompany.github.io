@@ -189,5 +189,18 @@
       "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/cd0311245324143.69ab472bb100d.png"
     ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
+  },
+  {
+    "id": "img21",
+    "title": "Cerveja Spaten",
+    "year": "2026",
+    "image": [
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/b48a56247021575.69d188d86ebaa.png",
+      "blob:https://www.behance.net/5aa3b642-7872-4fe5-8cb6-69060fb8d9bc",
+      "blob:https://www.behance.net/cbc07610-e62e-4183-a698-228647f93e78",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/35c57e247021575.69d188d86fd2c.png",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/ef5a1a247021575.69d188d86f017.png"
+    ],
+    "behance": "https://www.behance.net/gallery/246351113/Cerveja-Spaten?platform=direct"
   }
 ]
