@@ -204,5 +204,17 @@
       "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/ef5a1a247021575.69d188d86f017.png"
     ],
     "behance": "https://www.behance.net/gallery/246351113/Cerveja-Spaten?platform=direct"
+  },
+  {
+    "id": "img22",
+    "title": "Brahma Duplo Malte",
+    "year": "2026",
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/756ad2247386923.69eb6cf4324d2.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b96052247386923.69dea764b6d63.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e94f25247386923.69e27860cdd81.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a7a5ec247386923.69efc2f08f399.png"
+    ],
+    "behance": "https://www.behance.net/gallery/247386923/Brahma-Duplo-Malte"
   }
 ]
