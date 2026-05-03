@@ -130,7 +130,7 @@
     "title": "Crispy Proteiny",
     "year": "2025",
     "image": [
-      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/298429242725895.697281f51c642.png"
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/298429242725895.697281f51c642.png",
     ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
   },
@@ -147,12 +147,12 @@
     "behance": "https://www.behance.net/rafaelbarbosaz"
   },
   {
-    "id": "img18",
-    "title": "JBL - Full CGI ",
+    "id": "img19",
+    "title": "JBL",
     "year": "2026",
     "image": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a1ee67243660515.6985f4c13b1f5.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/99f211243660515.6985f4c13a6b1.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a1ee67243660515.6985f4c13b1f5.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/bb2dfa243660515.6985f4c13a00d.jpg"
     ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
@@ -162,10 +162,47 @@
     "title": "Video Game",
     "year": "2025",
     "image": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7bd0f9241653753.695d19dac9256.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/944978241653753.695d19dac9777.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d3a71b241653753.695d19dac89cd.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7bd0f9241653753.695d19dac9256.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/944978241653753.695d19dac9777.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d3a71b241653753.695d19dac89cd.png"
     ],
     "behance": "https://www.behance.net/rafaelbarbosaz"
+  },
+  {
+    "id": "img20",
+    "title": "Bombay Sapphire",
+    "year": "2026",
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/e2c858245751859.69b4209d53c79.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/05befd245751859.69b4209d5525b.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/046768245751859.69b4209d5445a.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/cdc38b245751859.69b4209d54bb6.png"
+    ],
+    "behance": "https://www.behance.net/gallery/245751859/Bombay-Sapphire-Gin"
+  },
+  {
+    "id": "img21",
+    "title": "Cerveja Spaten",
+    "year": "2026",
+    "image": [
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/b48a56247021575.69d188d86ebaa.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/fd4e50247021575.69d18a574161e.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/919e46247021575.69d18a574123f.png",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/35c57e247021575.69d188d86fd2c.png",
+      "https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/ef5a1a247021575.69d188d86f017.png"
+    ],
+    "behance": "https://www.behance.net/gallery/246351113/Cerveja-Spaten?platform=direct"
+  },
+  {
+    "id": "img22",
+    "title": "Brahma Duplo Malte",
+    "year": "2026",
+    "image": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/756ad2247386923.69eb6cf4324d2.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b96052247386923.69dea764b6d63.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e94f25247386923.69e27860cdd81.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a7a5ec247386923.69efc2f08f399.png"
+    ],
+    "behance": "https://www.behance.net/gallery/247386923/Brahma-Duplo-Malte"
   }
 ]
