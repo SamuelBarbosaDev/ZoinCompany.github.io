@@ -53,7 +53,7 @@ watch(
         :src="images[current]"
         alt=""
       />
-
+<!--  -->
       <button
         v-if="images.length > 1"
         class="nav next"
